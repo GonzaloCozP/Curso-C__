@@ -1,0 +1,7 @@
+Reporte de Stock de Productos
+----------------------------------------
+Fecha de Registro | Cantidad | Categoría
+----------------------------------------
+2023-05-01       | 10       | Electrónica
+2023-05-02       | 5        | Ropa
+2023-05-03       | 15       | Hogar
